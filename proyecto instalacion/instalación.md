@@ -15,7 +15,7 @@
 - Ejecutar ``composer install``
 
 ## Editar el archivo .env
-en la raíz del proyecto se encontrará un archivo llamado .envvv, deberás renombrar el nombre a ".env"
+en la raíz del proyecto se encontrará un archivo llamado .envvv, deberás renombrar el nombre a `.env`
 y dentro del archivo editar las siguientes lineas de código
 
 ```
